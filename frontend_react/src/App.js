@@ -15,7 +15,7 @@ const App = () => {
             <Work />
             <Skills />
             <Testimonial />
-            <Work />
+            <Footer/>
         </div>
     )
 }
